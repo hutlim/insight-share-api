@@ -1,7 +1,7 @@
 {
   "name": "insight-share-api",
   "description": "A Sharecoin blockchain REST and web socket API service for Sharecore Node.",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "repository": "git://github.com/hutlim/insight-share-api.git",
   "contributors": [
     {
